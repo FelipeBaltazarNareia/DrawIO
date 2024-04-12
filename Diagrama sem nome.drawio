@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-04-12T15:15:46.632Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="FRpMFi1Eu0IsLqVF0DGk" version="24.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-12T15:34:20.106Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="BAfDMJteyBDpmaFDrCga" version="24.2.3" type="github">
   <diagram name="Página-1" id="7MSN0dcOETf5na8nw2sd">
-    <mxGraphModel dx="2293" dy="1950" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2276" dy="1532" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -784,50 +784,46 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="TASuhm_qrvJY3Lz54P2R-247" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="TASuhm_qrvJY3Lz54P2R-233" target="TASuhm_qrvJY3Lz54P2R-235">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="TASuhm_qrvJY3Lz54P2R-248" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="TASuhm_qrvJY3Lz54P2R-247">
-          <mxGeometry x="-0.2519" y="-1" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="TASuhm_qrvJY3Lz54P2R-250" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TASuhm_qrvJY3Lz54P2R-233" target="TASuhm_qrvJY3Lz54P2R-249">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TASuhm_qrvJY3Lz54P2R-260" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="TASuhm_qrvJY3Lz54P2R-233" target="TASuhm_qrvJY3Lz54P2R-259">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TASuhm_qrvJY3Lz54P2R-261" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="TASuhm_qrvJY3Lz54P2R-260">
+          <mxGeometry x="-0.0971" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="TASuhm_qrvJY3Lz54P2R-233" value="Is flow finished?" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-330" y="2270" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="TASuhm_qrvJY3Lz54P2R-240" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TASuhm_qrvJY3Lz54P2R-235">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-20" y="2405" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="TASuhm_qrvJY3Lz54P2R-241" value="Pre load next flow" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="TASuhm_qrvJY3Lz54P2R-240">
-          <mxGeometry x="0.1432" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="TASuhm_qrvJY3Lz54P2R-235" value="Navigate to OnboardingSummary&lt;span style=&quot;background-color: initial;&quot;&gt;Page&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-330" y="2390" width="60" height="30" as="geometry" />
+          <mxGeometry x="-473" y="2450" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TASuhm_qrvJY3Lz54P2R-266" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TASuhm_qrvJY3Lz54P2R-236" target="TASuhm_qrvJY3Lz54P2R-265">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="TASuhm_qrvJY3Lz54P2R-236" value="User interactions" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="-315" y="2520" width="30" height="60" as="geometry" />
+          <mxGeometry x="-458" y="2580" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="TASuhm_qrvJY3Lz54P2R-242" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="TASuhm_qrvJY3Lz54P2R-237" target="TASuhm_qrvJY3Lz54P2R-238">
+        <mxCell id="TASuhm_qrvJY3Lz54P2R-282" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TASuhm_qrvJY3Lz54P2R-237" target="TASuhm_qrvJY3Lz54P2R-238">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="TASuhm_qrvJY3Lz54P2R-237" value="Create new session&lt;br&gt;&lt;span style=&quot;font-family: Times; font-size: medium; text-align: start; white-space: pre;&quot;&gt;/flow/session&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-7.5" y="2390" width="80" height="40" as="geometry" />
+          <mxGeometry x="-750" y="2590" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="TASuhm_qrvJY3Lz54P2R-243" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TASuhm_qrvJY3Lz54P2R-238" target="TASuhm_qrvJY3Lz54P2R-239">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="TASuhm_qrvJY3Lz54P2R-238" value="Get interactions&lt;br&gt;&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; text-wrap: nowrap;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22Step%20Advance%26lt%3Bbr%26gt%3B%26lt%3Bspan%20style%3D%26quot%3Bfont-family%3A%20Times%3B%20font-size%3A%20medium%3B%20text-align%3A%20start%3B%20white-space%3A%20pre%3B%26quot%3B%26gt%3B%2Fflow%2Fsession%26lt%3B%2Fspan%26gt%3B%22%20style%3D%22text%3Bhtml%3D1%3Balign%3Dcenter%3BverticalAlign%3Dmiddle%3BwhiteSpace%3Dwrap%3Brounded%3D0%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22280%22%20y%3D%22910%22%20width%3D%2280%22%20height%3D%2240%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;&lt;span style=&quot;font-family: Times; font-size: medium; text-align: start; white-space: pre;&quot;&gt;/flow/{session_id}/interactions&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-7.5" y="2475" width="80" height="40" as="geometry" />
+          <mxGeometry x="-920" y="2590" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="TASuhm_qrvJY3Lz54P2R-287" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TASuhm_qrvJY3Lz54P2R-239" target="TASuhm_qrvJY3Lz54P2R-284">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="TASuhm_qrvJY3Lz54P2R-239" value="Step Advance&lt;br&gt;&lt;span style=&quot;font-family: Times; font-size: medium; text-align: start; white-space: pre;&quot;&gt;/flow/{session_id}/step/advance&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-7.5" y="2565" width="80" height="40" as="geometry" />
+          <mxGeometry x="-920" y="2420" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="TASuhm_qrvJY3Lz54P2R-246" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="TASuhm_qrvJY3Lz54P2R-235" target="TASuhm_qrvJY3Lz54P2R-236">
           <mxGeometry relative="1" as="geometry" />
@@ -836,7 +832,7 @@
           <mxGeometry x="-600" y="2270" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="TASuhm_qrvJY3Lz54P2R-251" value="Step Advance&lt;br&gt;&lt;span style=&quot;font-family: Times; font-size: medium; text-align: start; white-space: pre;&quot;&gt;/flow/{session_id}/step/advance&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-600" y="2170" width="80" height="40" as="geometry" />
+          <mxGeometry x="-610" y="2170" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="TASuhm_qrvJY3Lz54P2R-252" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.383;entryY=1.108;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="TASuhm_qrvJY3Lz54P2R-249" target="TASuhm_qrvJY3Lz54P2R-251">
           <mxGeometry relative="1" as="geometry" />
@@ -857,6 +853,95 @@
         </mxCell>
         <mxCell id="TASuhm_qrvJY3Lz54P2R-253" value="Start Flow 1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-330" y="1885" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TASuhm_qrvJY3Lz54P2R-262" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="TASuhm_qrvJY3Lz54P2R-259" target="TASuhm_qrvJY3Lz54P2R-235">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TASuhm_qrvJY3Lz54P2R-263" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="TASuhm_qrvJY3Lz54P2R-262">
+          <mxGeometry x="-0.1236" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TASuhm_qrvJY3Lz54P2R-259" value="Flow id == 2?" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-350" y="2370" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TASuhm_qrvJY3Lz54P2R-283" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TASuhm_qrvJY3Lz54P2R-265" target="TASuhm_qrvJY3Lz54P2R-237">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TASuhm_qrvJY3Lz54P2R-265" value="Continue clicked" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-640" y="2595" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TASuhm_qrvJY3Lz54P2R-271" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TASuhm_qrvJY3Lz54P2R-269">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-340" y="2050" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-380" y="2050" />
+              <mxPoint x="-380" y="2050" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TASuhm_qrvJY3Lz54P2R-275" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="TASuhm_qrvJY3Lz54P2R-271">
+          <mxGeometry x="-0.2678" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TASuhm_qrvJY3Lz54P2R-269" value="Is success response?" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-620" y="2040" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="TASuhm_qrvJY3Lz54P2R-270" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.599;entryY=1.09;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="TASuhm_qrvJY3Lz54P2R-251" target="TASuhm_qrvJY3Lz54P2R-269">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TASuhm_qrvJY3Lz54P2R-277" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TASuhm_qrvJY3Lz54P2R-269" target="TASuhm_qrvJY3Lz54P2R-276">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-550" y="2080" as="sourcePoint" />
+            <mxPoint x="-300" y="2170" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-428" y="2080" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TASuhm_qrvJY3Lz54P2R-278" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="TASuhm_qrvJY3Lz54P2R-277">
+          <mxGeometry x="-0.0747" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TASuhm_qrvJY3Lz54P2R-280" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TASuhm_qrvJY3Lz54P2R-276" target="TASuhm_qrvJY3Lz54P2R-228">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TASuhm_qrvJY3Lz54P2R-276" value="Back previous quesiton" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-458" y="2120" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TASuhm_qrvJY3Lz54P2R-285" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TASuhm_qrvJY3Lz54P2R-284">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-370" y="1960" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-880" y="1965" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TASuhm_qrvJY3Lz54P2R-286" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="TASuhm_qrvJY3Lz54P2R-285">
+          <mxGeometry x="0.129" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TASuhm_qrvJY3Lz54P2R-293" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TASuhm_qrvJY3Lz54P2R-284">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-660" y="2390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TASuhm_qrvJY3Lz54P2R-284" value="Is success response?" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-915" y="2330" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="TASuhm_qrvJY3Lz54P2R-290" value="Back previous screen" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-690" y="2400" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TASuhm_qrvJY3Lz54P2R-291" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="TASuhm_qrvJY3Lz54P2R-290" target="TASuhm_qrvJY3Lz54P2R-236">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-660" y="2550" />
+              <mxPoint x="-443" y="2550" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
