@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-04-16T13:26:22.195Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="Fi7OY3Df_Q35SZoXOBcg" version="24.2.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-24T13:06:15.700Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="B3-ozxz6uiMGgRAWdr8h" version="24.2.8" type="github">
   <diagram name="Página-1" id="7MSN0dcOETf5na8nw2sd">
-    <mxGraphModel dx="3728" dy="1964" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2455" dy="1530" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1078,7 +1078,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="TASuhm_qrvJY3Lz54P2R-336" value="Any API rest" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="855" y="-465" width="60" height="30" as="geometry" />
+          <mxGeometry x="870" y="-465" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="TASuhm_qrvJY3Lz54P2R-337" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="TASuhm_qrvJY3Lz54P2R-338" target="TASuhm_qrvJY3Lz54P2R-347" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -1147,11 +1147,11 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TASuhm_qrvJY3Lz54P2R-367" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="TASuhm_qrvJY3Lz54P2R-361" target="TASuhm_qrvJY3Lz54P2R-336" edge="1">
+        <mxCell id="TASuhm_qrvJY3Lz54P2R-367" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.047;entryY=0.516;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="TASuhm_qrvJY3Lz54P2R-361" target="TASuhm_qrvJY3Lz54P2R-338" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="830" y="-240" />
-              <mxPoint x="830" y="-450" />
+              <mxPoint x="980" y="-240" />
+              <mxPoint x="980" y="-449" />
             </Array>
           </mxGeometry>
         </mxCell>
