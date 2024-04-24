@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-04-24T13:06:15.700Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="B3-ozxz6uiMGgRAWdr8h" version="24.2.8" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-24T13:33:41.285Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="8HnDEf4nbil3grDGJtVP" version="24.2.8" type="github">
   <diagram name="Página-1" id="7MSN0dcOETf5na8nw2sd">
-    <mxGraphModel dx="2455" dy="1530" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2329" dy="1474" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -779,7 +779,7 @@
         <mxCell id="TASuhm_qrvJY3Lz54P2R-226" value="Get current step&lt;br&gt;&lt;span style=&quot;font-family: Times; font-size: medium; text-align: start; white-space: pre;&quot;&gt;/flow/{session_id}/{step_number}&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-330" y="2040" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="TASuhm_qrvJY3Lz54P2R-231" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="TASuhm_qrvJY3Lz54P2R-228" target="TASuhm_qrvJY3Lz54P2R-230" edge="1">
+        <mxCell id="TASuhm_qrvJY3Lz54P2R-231" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="DGLwQY4p7IJSlS6L9oIq-1" target="TASuhm_qrvJY3Lz54P2R-230" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="TASuhm_qrvJY3Lz54P2R-412" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="TASuhm_qrvJY3Lz54P2R-228" target="TASuhm_qrvJY3Lz54P2R-249" edge="1">
@@ -808,6 +808,14 @@
         <mxCell id="TASuhm_qrvJY3Lz54P2R-415" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="TASuhm_qrvJY3Lz54P2R-414" vertex="1" connectable="0">
           <mxGeometry x="-0.3744" relative="1" as="geometry">
             <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DGLwQY4p7IJSlS6L9oIq-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="TASuhm_qrvJY3Lz54P2R-233" target="TASuhm_qrvJY3Lz54P2R-235">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-570" y="2370" />
+              <mxPoint x="-443" y="2370" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="TASuhm_qrvJY3Lz54P2R-233" value="Is flow finished?" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
@@ -1437,6 +1445,15 @@
           <mxGeometry x="-0.3538" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="DGLwQY4p7IJSlS6L9oIq-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TASuhm_qrvJY3Lz54P2R-228" target="DGLwQY4p7IJSlS6L9oIq-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-285" y="2170" as="sourcePoint" />
+            <mxPoint x="-77" y="2170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DGLwQY4p7IJSlS6L9oIq-1" value="Check for selected options" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-250" y="2155" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
